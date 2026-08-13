@@ -24,28 +24,28 @@ To work as a team in MAXQDA, one person needs to be designated the project lead 
 
 1. The project lead sets up a MAXQDA master project file, adding all the documents needed, setting up codes along with their code memos and hierarchies (if a codebook has been agreed upon ahead of time), and setting up other details, such as document variables
 
-#### Optional: For intercoder agreement checks, the set up is slightly different (skip if not checking for intercoder agreement)
+### Optional: For intercoder agreement checks, the set up is slightly different (skip if not checking for intercoder agreement)
 {:style="counter-reset:step-counter 1"}
-2. Pick a file or files you want multiple people to code to compare
-3. Create a document group for each person (minus the team leader who can work on the master project file)
-4. Put copies of the files you want people to code in those folders (You will need to import the files, you can’t just copy/paste.)
+1. Pick a file or files you want multiple people to code to compare
+1. Create a document group for each person (minus the team leader who can work on the master project file)
+1. Put copies of the files you want people to code in those folders (You will need to import the files, you can’t just copy/paste.)
 
 ### Continue with the general workflow
 {:style="counter-reset:step-counter 4"}
-5. Save the master project file and give teammates a copy of the master project file with their initials in the file name
-6. Teammates work on their project file, and team leader works on the master project file
-7. When the work is done, the teammates should export their project changes to a MQEX file, picking the documents that they made changes to and all the codes, using the Home->Teamwork->Export option
-8. The team leader should make a backup copy of the master project file before importing anything
-9. The team leader should then import each MQEX file using the Home->Teamwork->Import feature 
+1. Save the master project file and give teammates a copy of the master project file with their initials in the file name
+1. Teammates work on their project file, and team leader works on the master project file
+1. When the work is done, the teammates should export their project changes to a MQEX file, picking the documents that they made changes to and all the codes, using the Home->Teamwork->Export option
+1. The team leader should make a backup copy of the master project file before importing anything
+1. The team leader should then import each MQEX file using the Home->Teamwork->Import feature 
 
-#### Optional: For intercoder Agreement checks (skip if not checking for intercoder agreement)
+### Optional: For intercoder Agreement checks (skip if not checking for intercoder agreement)
 {:style="counter-reset:step-counter 9"}
-10. Once the changes have been imported, the team leader can run the [Intercoder Agreement](https://www.maxqda.com/help/coding/problem-intercoder-agreement-qualitative-research) functions to see how teammates' coding compares to each other and then decide which coding to keep. Once all changes have been agreed upon and applied to the files, you can then delete the duplicate files (double check the files that you are keeping to make sure you have all the changes before deleting). More information and tips about Intercoder Agreement are found in the [General Tips](https://mdlutoronto.github.io/working-teams-maxqda/general-tips/) section
-11. Once the team is happy with intercoder reliability and feels that everyone is on the same page, you can start a new cycle. The difference is that you don’t need repeated files now. You could use document groups to specify which person should work on which files, if you like. Then the steps can be repeated to code and exchange work. But now when it is imported, as different files were worked upon by different people, there’s no worries about overwriting changes or needing to merge two people’s changes through intercoder agreement functions
+1. Once the changes have been imported, the team leader can run the [Intercoder Agreement](https://www.maxqda.com/help/coding/problem-intercoder-agreement-qualitative-research) functions to see how teammates' coding compares to each other and then decide which coding to keep. Once all changes have been agreed upon and applied to the files, you can then delete the duplicate files (double check the files that you are keeping to make sure you have all the changes before deleting). More information and tips about Intercoder Agreement are found in the [General Tips](https://mdlutoronto.github.io/working-teams-maxqda/general-tips/) section
+1. Once the team is happy with intercoder reliability and feels that everyone is on the same page, you can start a new cycle. The difference is that you don’t need repeated files now. You could use document groups to specify which person should work on which files, if you like. Then the steps can be repeated to code and exchange work. But now when it is imported, as different files were worked upon by different people, there’s no worries about overwriting changes or needing to merge two people’s changes through intercoder agreement functions
 
 ### Continue with the general workflow
 {:style="counter-reset:step-counter 11"}
-12. In a project, there may be many rounds of coding. The team lead can decide to start a new cycle, where you have a new updated copy of the master file (with some coding already done) that is then shared out again to teammates for more coding. Start at step 5 and repeat the work again, as many cycles as needed
+1. In a project, there may be many rounds of coding. The team lead can decide to start a new cycle, where you have a new updated copy of the master file (with some coding already done) that is then shared out again to teammates for more coding. Start at step 5 and repeat the work again, as many cycles as needed
 
 ### Clarifications and Tips
 
